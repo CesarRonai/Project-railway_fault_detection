@@ -34,8 +34,6 @@ Grad-CAM (Explainability)
 
 O conjunto de dados utilizado neste projeto está disponível no Kaggle:
 
-🔗 [Railway Track Fault Detection Updated](COLOQUE_AQUI_O_LINK_DO_KAGGLE)
-
 Estrutura do Dataset:
 
 Railway Track Fault Detection Updated/
